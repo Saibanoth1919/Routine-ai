@@ -1,0 +1,6 @@
+{
+  "name": "MyRoutine - Daily Routine, Schedule & Focus Hub",
+  "description": "Aesthetic daily routine scheduler, timeline view, Pomodoro focus mode with ambient soundscapes, habit tracker, and AI routine assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
